@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "713034826359",
+    "firebase_url": "https://tcube-b1596.firebaseio.com",
+    "project_id": "tcube-b1596",
+    "storage_bucket": "tcube-b1596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713034826359:android:2ec6382550a23089133c72",
+        "android_client_info": {
+          "package_name": "com.example.tcube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713034826359-4s5a5l0g8rbde5b5psf96sthjrjvbvvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tcube",
+            "certificate_hash": "0f40c98f3ba6767d98d8eec4422ec69d97a53173"
+          }
+        },
+        {
+          "client_id": "713034826359-uqkrl07eu5ha4ij1jeovuafjnuk4lud9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY7wjVVvll633QBQA6P7q7RlwCRDZMTlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713034826359-uqkrl07eu5ha4ij1jeovuafjnuk4lud9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
